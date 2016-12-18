@@ -1,0 +1,22 @@
+{
+  "name": "augury",
+  "version": "0.0.1",
+  "description": "A functional web component tester",
+  "main": "augury.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigiljs/augury.git"
+  },
+  "author": "Richard Anaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sigiljs/augury/issues"
+  },
+  "homepage": "https://github.com/sigiljs/augury#readme"
+}
